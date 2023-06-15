@@ -18,7 +18,7 @@
 
 4. import flow from PDF folder 'pdf Chatflow.json'
 
-5. use csv created from video tutorials AGROSISTEMAS videos translates - Hoja 1.csv
+5. use csv created from video tutorials agrosistemas-dataset.pdf
    1. just add it with upload pdf button module
 
 6. add openai api keys where needed
